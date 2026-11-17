@@ -1,12 +1,63 @@
-- 👋 Hi, I’m @NaveenDavis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-NaveenDavis/NaveenDavis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Naveen Davis 👋
+
+### Java Backend Developer | Spring Boot | Microservices
+
+I'm a Java Backend Developer with nearly 5 years of experience in developing and maintaining enterprise-level backend applications.
+
+I enjoy designing backend solutions, building REST APIs, integrating payment systems, troubleshooting complex issues, and continuously exploring new technologies.
+
+---
+
+### 💻 Tech Stack
+
+**Backend**
+- Java
+- Spring Boot
+- Spring Framework
+- Hibernate & JPA
+- Microservices
+- REST APIs
+
+**Database & Caching**
+- PostgreSQL
+- MySQL
+- Redis
+
+**Tools & Technologies**
+- Git & GitHub
+- Maven
+- JUnit & Mockito
+- Docker
+- Apache Kafka
+
+---
+
+### 🌱 Currently Learning
+
+- AWS & Cloud Technologies
+- React
+- System Design
+- Distributed Systems
+- Kubernetes
+
+---
+
+### 🎯 What I'm Interested In
+
+- Building scalable backend applications
+- Microservices architecture
+- Performance optimization
+- Cloud-native applications
+- Clean code and software design
+
+---
+
+### 🤝 Let's Connect
+
+- 💼 LinkedIn: [Add your LinkedIn URL](https://linkedin.com)
+- 📧 Email: Add your email address
+
+---
+
+*"Keep Learning. Keep Building. Keep Growing."*
