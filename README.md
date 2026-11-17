@@ -2,43 +2,36 @@
 
 ## Hey, I'm Naveen 👋
 
-I build backend systems — the kind that stay up at 3am, handle traffic spikes without falling over, and don't need babysitting. Five years in, mostly living in APIs, cloud infrastructure, and the messy, interesting problems that show up once a system has to run at scale: data consistency, service-to-service communication, things failing gracefully instead of just failing.
+I build backend systems — the kind that stay up at 3am, handle traffic spikes without falling over, and don't need babysitting. Five years in, mostly living in APIs, cloud infrastructure, and the problems that only show up once a system has to run at real scale: keeping data consistent across services, making things fail gracefully instead of just failing, and making sure the thing I build today doesn't become next year's incident.
 
-I'm currently taking on **remote, freelance, and full-time backend roles** — if you need someone who can own a service end to end (design, build, deploy, keep it alive), that's me.
-
----
-
-### 🛠️ What I actually work with
-
-- **Backend:** `[your main language/framework — e.g. Node.js/Express, Java/Spring, Python/Django]`
-- **Cloud:** `[AWS / GCP / Azure — name the services you actually use: EC2, Lambda, S3, RDS, etc.]`
-- **Distributed systems:** message queues, service communication, caching, horizontal scaling
-- **Databases:** `[Postgres / MySQL / MongoDB / Redis — whatever you really use]`
-- **DevOps:** Docker, CI/CD, deployment pipelines
-- **Also comfortable with:** frontend basics, enough to not need a hand-off for every small fix
-
-*(Fill in the brackets above with your real stack — recruiters skim this first, and specifics beat buzzwords.)*
+Right now I'm open to **remote, freelance, and full-time backend work**. If you need someone who can own a service end to end — design it, build it, ship it, keep it alive — that's what I do.
 
 ---
 
-### 🚀 Projects I'd point you to
+### 🛠️ What I work with
 
-- **[Portfolio / website](https://github.com/NaveenDavis/website)** — my own site, covers what I do across web, backend, and deployment/DevOps.
-- `[Your strongest backend project — API, service, or system you're proud of. Link it, say what it does and what was hard about it.]`
-- `[A second one if you have it — distributed system, cloud infra project, freelance client work, etc.]`
-
-*(I checked your other public repos — `codesphere` looks like a Bootstrap template demo and `cricketfeverzone` is actually a gift-store frontend, not backend work, so I left them out. Swap in real backend projects here, even private ones — just describe what they do.)*
-
----
-
-### 🔭 Right now I'm working on
-
-`[What are you actually building or learning this month? One or two honest lines — this is the line recruiters and clients read to see if you're active.]`
+- **Backend development** — designing and building APIs and services that hold up under real traffic, not just demo traffic
+- **Cloud** — deploying, scaling, and running services in the cloud rather than just writing code and hoping ops figures it out
+- **Distributed systems** — the unglamorous part: service-to-service communication, data consistency, caching, handling partial failure
+- **Databases** — modeling data properly and making queries fast, not just making them work
+- **DevOps basics** — Docker, CI/CD, deployment pipelines, enough infra to not be blocked waiting on someone else
 
 ---
 
-### 📬 Reach me
+### 🚀 Projects
 
-`[Email / LinkedIn / Upwork / Twitter — pick what you actually check and want cold messages on]`
+- **[Portfolio site](https://github.com/NaveenDavis/website)** — my own site, covering web, backend, and deployment/DevOps work.
 
-If you're hiring or need backend work done — remote, contract, or otherwise — just reach out. I reply.
+I'm actively adding more backend and distributed-systems work here as it ships — this list grows as the freelance/contract projects do.
+
+---
+
+### 🔭 Right now
+
+Taking on remote and freelance backend contracts, and sharpening the cloud/distributed-systems side of my stack between projects.
+
+---
+
+### 📬 Get in touch
+
+Best way to reach me is right here on GitHub — open an issue on this repo, drop a comment, or just send a message if you're hiring or have work that needs backend/cloud expertise. I reply.
