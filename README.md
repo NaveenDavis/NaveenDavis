@@ -56,7 +56,7 @@ I enjoy designing backend solutions, building REST APIs, integrating payment sys
 ### 🤝 Let's Connect
 
 - 💼 LinkedIn: [Add your LinkedIn URL](https://linkedin.com)
-- 📧 Email: Add your email address
+- 📧 Email: naveendavis99@gmail.com
 
 ---
 
